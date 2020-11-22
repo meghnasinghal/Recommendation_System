@@ -1,0 +1,51 @@
+movie_id,movie_title,genre,prediction
+2318,Happiness (1998),Comedy,0
+290,Once Were Warriors (1994),Crime|Drama,0
+293,"Professional, The (a.k.a. Leon: The Professional) (1994)",Crime|Drama|Romance|Thriller,0
+2313,"Elephant Man, The (1980)",Drama,0
+298,Pushing Hands (1992),Comedy,0
+344,Ace Ventura: Pet Detective (1994),Comedy,1
+2314,Beloved (1998),Drama,1
+347,Bitter Moon (1992),Drama,1
+2316,Practical Magic (1998),Drama|Romance,1
+2031,"$1,000,000 Duck (1971)",Children's|Comedy,1
+3777,Nekromantik (1987),Comedy|Horror,2
+3774,House Party 2 (1991),Comedy,2
+291,Poison Ivy II (1995),Thriller,2
+1868,"Truce, The (1996)",Drama|War,2
+3772,Hatchet For the Honeymoon (Rosso Segno Della Follia) (1969),Horror,2
+2147,"Clan of the Cave Bear, The (1986)",Drama,3
+2315,Bride of Chucky (1998),Horror|Thriller,3
+1718,Stranger in the House (1997),Thriller,3
+343,"Baby-Sitters Club, The (1995)",Children's,3
+1869,Black Dog (1998),Action|Thriller,3
+557,Mamma Roma (1962),Drama,4
+2839,West Beirut (West Beyrouth) (1998),Drama,4
+1132,Manon of the Spring (Manon des sources) (1986),Drama,4
+3517,"Bells, The (1926)",Crime|Drama,4
+296,Pulp Fiction (1994),Crime|Drama,4
+3773,House Party (1990),Comedy,5
+2317,"Alarmist, The (1997)",Comedy,5
+273,Mary Shelley's Frankenstein (1994),Drama|Horror,5
+3778,On Our Merry Way (1948),Comedy|Drama,5
+295,"Pyromaniac's Love Story, A (1995)",Comedy|Romance,5
+341,Double Happiness (1994),Drama,6
+345,"Adventures of Priscilla, Queen of the Desert, The (1994)",Comedy|Drama,6
+348,Bullets Over Broadway (1994),Comedy,6
+342,Muriel's Wedding (1994),Comedy|Romance,6
+349,Clear and Present Danger (1994),Action|Adventure|Thriller,6
+2449,"Garbage Pail Kids Movie, The (1987)",Adventure|Children's,7
+1386,Terror in a Texas Town (1958),Western,7
+3209,"Loves of Carmen, The (1948)",Drama,7
+895,Venice/Venice (1992),Drama,7
+1142,Get Over It (1996),Drama,7
+3771,"Golden Voyage of Sinbad, The (1974)",Action|Adventure,8
+340,"War, The (1994)",Adventure|Drama,8
+2311,2010 (1984),Mystery|Sci-Fi,8
+292,Outbreak (1995),Action|Drama|Thriller,8
+3776,Melody Time (1948),Animation|Children's|Musical,8
+346,Backbeat (1993),Drama|Musical,9
+854,"Ballad of Narayama, The (Narayama Bushiko) (1958)",Drama,9
+2443,Playing by Heart (1998),Drama|Romance,9
+3211,"Cry in the Dark, A (1988)",Drama,9
+3770,Dreamscape (1984),Adventure|Crime|Sci-Fi|Thriller,9
